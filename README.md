@@ -25,5 +25,5 @@
 ### Sobre
 
 Sou estudante de Desenvolvimento de Software Multiplataforma (DSM), apaixonado por tecnologia e inovação.
-Atualmente estou estudando React e Angular 📕, minhas tecnologias de frontend favoritas 😀
+Atualmente estou estudando Kotlin 📕, sou mais voltado a área de frontend porém recentemente venho me aventurando no desenvolvimento mobile também.
 
