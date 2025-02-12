@@ -1,9 +1,15 @@
 <h1 align="center">Murilo Santos - Software Developer</h1>
 
+<p align="center">
+  <a href="https://github.com/murilo587">
+    <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=40&center=true&vCenter=true&width=450&lines=Hello+World!" alt="Hello World!">
+  </a>
+</p>
 
-### Tecnologias que mais uso no meu dia a dia
+![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo587&show_icons=true&theme=transparent)
 
-![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo587&show_icons=true&theme=dracula)
+<h1 align="center">Tecnologias Mais Utilizadas</h1>
+
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
