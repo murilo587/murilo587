@@ -1,8 +1,9 @@
-### Olá! Eu sou o Murilo Santos 👋
+<h1 align="center">Murilo Santos - Software Developer</h1>
 
-![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo587&show_icons=true&theme=dracula)
 
 ### Tecnologias que mais uso no meu dia a dia
+
+![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo587&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
