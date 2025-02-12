@@ -6,7 +6,10 @@
   </a>
 </p>
 
-![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=murilo587&show_icons=true&theme=transparent)
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=murilo587&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo587&layout=compact&langs_count=7&theme=transparent"/>
+  </div>
 
 <h1 align="center">Tecnologias Mais Utilizadas</h1>
 
@@ -31,7 +34,7 @@
   <img align="center" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></img>
 </div><br/>
 
-### Sobre
+<h1 align="center">Sobre</h1>
 
 Sou estudante de Desenvolvimento de Software Multiplataforma (DSM), apaixonado por tecnologia e inovação.
 Atualmente estou estudando Kotlin e Jetpack Compose📕, sou mais voltado a área de Front-end porém recentemente venho me aventurando no desenvolvimento mobile e desafios em lógica de programação com Rust também.
