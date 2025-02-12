@@ -21,10 +21,11 @@
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></img>
   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></img>
+  <img align="center" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></img>
 </div><br/>
 
 ### Sobre
 
 Sou estudante de Desenvolvimento de Software Multiplataforma (DSM), apaixonado por tecnologia e inovação.
-Atualmente estou estudando Kotlin 📕, sou mais voltado a área de frontend porém recentemente venho me aventurando no desenvolvimento mobile também.
+Atualmente estou estudando Kotlin e Jetpack Compose📕, sou mais voltado a área de Front-end porém recentemente venho me aventurando no desenvolvimento mobile e desafios em lógica de programação com Rust também.
 
