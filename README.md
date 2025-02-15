@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/murilo587">
-    <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=40&center=true&vCenter=true&width=450&lines=Hello+World!" alt="Hello World!">
+    <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&size=38&center=true&vCenter=true&width=450&lines=Hello+World!" alt="Hello World!">
   </a>
 </p>
 
