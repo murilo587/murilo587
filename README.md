@@ -1,4 +1,4 @@
-<h1 align="center">Murilo Santos - Software Developer</h1>
+<h1 align="center">Murilo - Software Developer</h1>
 
 <p align="center">
   <a href="https://github.com/murilo587">
