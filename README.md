@@ -37,5 +37,5 @@
 <h1 align="center">Sobre</h1>
 
 Sou estudante de Desenvolvimento de Software Multiplataforma (DSM), apaixonado por tecnologia e inovação.
-Atualmente estou estudando Kotlin e Jetpack Compose📕, sou mais voltado a área de Front-end porém recentemente venho me aventurando no desenvolvimento mobile e desafios em lógica de programação com Rust também.
+Atualmente estou estudando Lua 🌙, sou mais voltado a área de Front-end porém recentemente venho me aventurando no desenvolvimento mobile e desafios em lógica de programação com Rust também ☝️🤓.
 
