@@ -40,5 +40,5 @@
 <h1 align="center">Sobre</h1>
 
 Sou estudante de Desenvolvimento de Software Multiplataforma (DSM), apaixonado por tecnologia e inovação.
-Atualmente estou estudando Nest, sou mais voltado a área de Front-end porém recentemente venho me aventurando no desenvolvimento mobile e desafios em lógica de programação com Rust também ☝️🤓.
+Atualmente estou atuando com React, sou mais voltado a área de Front-end porém recentemente venho me aventurando no desenvolvimento Back-end com Nest☝️🤓.
 
