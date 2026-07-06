@@ -27,6 +27,44 @@
 
 <h1 align="center">Sobre</h1>
 
-Sou estudante de Desenvolvimento de Software Multiplataforma (DSM), apaixonado por tecnologia e inovação.
-Atualmente estou atuando com React, sou mais voltado a área de Front-end porém recentemente venho me aventurando no desenvolvimento Android com Kotlin ☝️🤓.
+Engenheiro de Software graduado em Desenvolvimento de Software Multiplataforma (DSM), focado em criar soluções eficientes, organizadas e de alto impacto. 
+
+Tenho experiência prática no ecossistema **Front-end com React e TypeScript**, lidando com aplicações de alta escala. Atualmente, canalizo a minha evolução e paixão técnica no desenvolvimento **Android Nativo (Kotlin)**, aplicando o estado da arte da plataforma: **Jetpack Compose, arquiteturas reativas (MVI/MVVM) e testes robustos**. ☝️🤓
+
+Para mim, engenharia é sobre resolver problemas reais com excelência técnica, seja no Mobile ou na Web.
+
+---
+
+### 🛠️ Tech Stack Principal
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <img src="https://img.shields.io/badge/Mobile%20(Android)-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /><br/><br/>
+      • <b>Kotlin</b><br/>
+      • Jetpack Compose<br/>
+      • Coroutines & Flow<br/>
+      • MVI / MVVM<br/>
+      • Room & Dagger-Hilt
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://img.shields.io/badge/Testes%20%26%20Qualidade-4CAF50?style=for-the-badge" alt="Tests" /><br/><br/>
+      • <b>JUnit 5</b><br/>
+      • Kotest<br/>
+      • MockK<br/>
+      • Turbine<br/>
+      • Clean Code / SOLID
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://img.shields.io/badge/Web%20%26%20Front--end-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Web" /><br/><br/>
+      • <b>React</b><br/>
+      • TypeScript<br/>
+      • JavaScript<br/>
+      • Micro Front-ends<br/>
+      • CI/CD (Pipelines)
+    </td>
+  </tr>
+</table>
+
+---
 
